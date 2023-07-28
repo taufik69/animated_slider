@@ -46,6 +46,6 @@ body {
   margin-left: 3px;
   height: 20px;
   border: 2px solid purple;
-
+  cursor: pointer;
   border-radius: 50%;
 }
